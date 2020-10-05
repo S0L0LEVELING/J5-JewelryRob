@@ -22,5 +22,9 @@ GoldCard
 
 You will have to add the items to ur data or inventory
 
-# Any Issues Or Help 
-https://discord.gg/gmAcpDU
+
+# Personal Discord
+
+Talk about coding, updates on new and streams, first look on new stuff.
+
+https://discord.gg/gDzfnm8
